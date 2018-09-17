@@ -5,4 +5,16 @@
 2. Brayan castañeda
 3. Sebastian Duque       20162020039
 
-#### Contenido 
+#### Contenido:
+1.Factorial
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+
