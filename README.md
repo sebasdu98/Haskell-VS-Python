@@ -6,15 +6,15 @@
 3. Sebastian Duque       20162020039
 
 #### Contenido:
-1.Factorial
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Factorial
+2. Sumar
+3. Invertir
+4. Listas Iguales
+5. Lista Ordenada
+6. Mostrar ubicacion
+7. Mayor
+8. Contar Pares
+9. Cuadrados
+10. Primos
 
 
