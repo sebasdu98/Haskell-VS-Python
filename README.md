@@ -2,7 +2,7 @@
 
 ## Integrantes:
 1. Alexander Diaz        20162020105  
-2. Brayan castañeda      2019codigodecatastral
+2. Brayan castañeda      20162020110
 3. Sebastian Duque       20162020039
 
 #### Contenido:
