@@ -7,7 +7,7 @@
 
 #### Contenido:
 1. Factorial
-  *Consiste en encontrar el factorial de un numero 
+  * Consiste en encontrar el factorial de un numero 
 2. Sumar
 3. Invertir
 4. Listas Iguales
